@@ -26,11 +26,9 @@ IT and Software Development. Kanban method has also been used extensively in IT 
     <p>3.Run npm run dev to start the development server.</p><br/>
     
     <h3>Collaborators</h3>
-    <ol>
-      <li> Sneha Gour</li>
-      <li>  Ritik Sahu</li>
-      <li> Avinash Kummar</li>
-    </ol>
+    <p>1.Sneha Gaur</p>
+    <p>2.Ritik Sahu</p>
+    <p>3.Avinash kumar</p>
   </body>
     
 </html>
