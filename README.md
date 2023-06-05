@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title></title>
+   
   </head>
   <body>
     <h3>Kanban Board</h3>
@@ -17,7 +17,7 @@ IT and Software Development. Kanban method has also been used extensively in IT 
     React Icons
     React Router
     </p> 
-    <h3>Installation</3>
+    <h3>Installation</h3>
     
    
    
