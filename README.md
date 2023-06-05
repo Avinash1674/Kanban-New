@@ -20,10 +20,10 @@ IT and Software Development. Kanban method has also been used extensively in IT 
       </li>
      </ul>
     <h3>Installation</h3>
-    <p>To install and run the application locally,steps</p><br/>
-    <p>1.Clone the repository to your local machine.</p><br/>
-    <p>2.Run npm install to install all dependency.</p><br/>
-    <p>3.Run npm run dev to start the development server.</p><br/>
+    <p>To install and run the application locally,steps</p>
+    <p>1.Clone the repository to your local machine.</p>
+    <p>2.Run npm install to install all dependency.</p>
+    <p>3.Run npm run dev to start the development server.</p>
     
     <h3>Collaborators</h3>
     <p>1.Sneha Gaur</p>
