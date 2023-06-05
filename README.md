@@ -27,11 +27,10 @@ IT and Software Development. Kanban method has also been used extensively in IT 
     
     <h3>Collaborators</h3>
     <ol>
-      <li>
-        Sneha Gour
-        Ritik Sahu
-        Avinash Kummar
-      </li>
+      <li> Sneha Gour</li>
+      <li>  Ritik Sahu</li>
+      <li> Avinash Kummar</li>
+        
     </ol>
   </body>
     
