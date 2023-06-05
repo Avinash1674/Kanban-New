@@ -11,13 +11,11 @@ Manufacturing. Kanban has its origins in Japan and was firstly established throu
 IT and Software Development. Kanban method has also been used extensively in IT and software development companies. ...</p>
     <h3>Tech Stack</h3>
     <ul>
-      <li>
-        ReactJs
-        Recoil
-        Matrial UI
-        React Icons
-        React Router
-      </li>
+      <li> ReactJs</li>
+      <li> Recoil </li>
+      <li> Matrial UI</li>
+      <li> React Icons</li>
+      <li> React Router</li> 
      </ul>
     <h3>Installation</h3>
     <p>To install and run the application locally,steps</p>
