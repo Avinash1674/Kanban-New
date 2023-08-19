@@ -69,9 +69,6 @@ To install and run the application locally, follow these steps:
 3. Run npm run dev to start the development server
 4. Open http://localhost:5173/ in your browser to view the application
 
-## Deployment Site link
-
-Open https://kanban-lmqs.onrender.com in your browser to view the application
 
 ## Data Structure
 
