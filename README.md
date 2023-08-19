@@ -95,10 +95,3 @@ List =[
     }
 ]
 ```
-
-## Collaborators
-
-- Kajal Gupta, https://github.com/kajalgupta-98
-- Ruturaj Mengal, https://github.com/ruturajmengal2016
-- Chand Babu, https://github.com/the-chand-babu
-- Rohit Kirti, https://github.com/Rohit-2012
